@@ -1,0 +1,18 @@
+{
+  "name": "Diala Lteif",
+  "short_name": "Diala Lteif",
+  "lang": "en-us",
+  "theme_color": "#2962ff",
+  "background_color": "#2962ff",
+  "icons": [{
+    "src": "/images/icon_hu5390d5a83bb26393faf8dc231bd59187_3892_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu5390d5a83bb26393faf8dc231bd59187_3892_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}
