@@ -1,41 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://dlteif.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dlteif.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dlteif.github.io/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/bryan-a.-plummer/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dlteif.github.io/author/diala-lteif/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dlteif.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://dlteif.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/publication/d3g/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://dlteif.github.io/publication/</loc>
-  </url>
-  
-  <url>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/rhoda-au/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/sandeep-sreerama/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/sarah-adel-bargal/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/vijaya-b.-kolachalama/</loc>
+    <lastmod>2023-09-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/publication/anigifs/</loc>
+    <lastmod>2022-11-30T00:11:46-06:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/arsenii-mustafin/</loc>
+    <lastmod>2022-11-30T00:11:46-06:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/isidora-chara-tourni/</loc>
+    <lastmod>2022-11-30T00:11:46-06:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/kate-saenko/</loc>
+    <lastmod>2022-11-30T00:11:46-06:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/shoumik-sovan-majumdar/</loc>
+    <lastmod>2022-11-30T00:11:46-06:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/shubhangi-jain/</loc>
+    <lastmod>2022-11-30T00:11:46-06:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/author/stan-sclaroff/</loc>
+    <lastmod>2022-11-30T00:11:46-06:00</lastmod>
+  </url><url>
+    <loc>https://dlteif.github.io/categories/</loc>
+  </url><url>
+    <loc>https://dlteif.github.io/author/diala-lteif/</loc>
+  </url><url>
+    <loc>https://dlteif.github.io/post/</loc>
+  </url><url>
+    <loc>https://dlteif.github.io/publication_types/</loc>
+  </url><url>
     <loc>https://dlteif.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://dlteif.github.io/selected-graduate-coursework/</loc>
+  </url><url>
     <loc>https://dlteif.github.io/tags/</loc>
   </url>
-  
 </urlset>

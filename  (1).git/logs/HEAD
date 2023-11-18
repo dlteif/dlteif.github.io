@@ -1,0 +1,30 @@
+0000000000000000000000000000000000000000 758f10c122b13ebfe70b9acf30543e313a779dd8 dlteif <dlteif@bu.edu> 1632074849 -0400	commit (initial): rebuilding site Sun, Sep 19, 2021 2:07:29 PM
+758f10c122b13ebfe70b9acf30543e313a779dd8 10bd608b08a4306a55e65fde923e5505418dab5a dlteif <dlteif@bu.edu> 1632079372 -0400	commit (merge): fix conflicts
+10bd608b08a4306a55e65fde923e5505418dab5a 8bcf0276e3e20bb857ffed68accf7034515dbdd8 dlteif <dlteif@bu.edu> 1632080039 -0400	commit: updated research section
+8bcf0276e3e20bb857ffed68accf7034515dbdd8 b3970b928b33c05ff6705a4836bef87dbdee3770 dlteif <dlteif@bu.edu> 1632080123 -0400	commit: updated research section
+b3970b928b33c05ff6705a4836bef87dbdee3770 485cde1b9070487e7690b5cc03b93e801af3191c dlteif <dlteif@bu.edu> 1632080223 -0400	commit: updated research section
+485cde1b9070487e7690b5cc03b93e801af3191c 2ba2f0c6e34495c10f55e956835e0f984d4a121d dlteif <dlteif@bu.edu> 1632082843 -0400	commit: updated research section
+2ba2f0c6e34495c10f55e956835e0f984d4a121d 0e311255629f5a6669e00ee81eebb1fa0374981e dlteif <dlteif@bu.edu> 1632083166 -0400	commit: fix cols
+0e311255629f5a6669e00ee81eebb1fa0374981e 3084206022f9e7e6533f43fb096fc713618f7962 dlteif <dlteif@bu.edu> 1632083449 -0400	commit (amend): fix cols
+3084206022f9e7e6533f43fb096fc713618f7962 5c3897cda9ccb6da996304ed993d32e44e534913 dlteif <dlteif@bu.edu> 1632083605 -0400	commit (merge): fix cols
+5c3897cda9ccb6da996304ed993d32e44e534913 6e02ef209e9effea58607dbe94c2039c0a61708f dlteif <dlteif@bu.edu> 1632084273 -0400	commit: updated research section
+6e02ef209e9effea58607dbe94c2039c0a61708f 1e74b1fe3bafdacb4dd141ad7c2ff636bc13c88b dlteif <dlteif@bu.edu> 1632084426 -0400	commit: minor fixes
+1e74b1fe3bafdacb4dd141ad7c2ff636bc13c88b 367d1da2fdee37451476e399e73911364b2b755d dlteif <dlteif@bu.edu> 1632113343 -0400	commit: minor fixes
+367d1da2fdee37451476e399e73911364b2b755d b872c998c55143a0bc4c2c803e6dfbf56e3b99c9 dlteif <dlteif@bu.edu> 1643511748 -0500	commit: updated research section
+b872c998c55143a0bc4c2c803e6dfbf56e3b99c9 9cb72ed3427074adf238f6569db08362e23908a6 dlteif <dlteif@bu.edu> 1651161249 -0400	commit: updated photo
+9cb72ed3427074adf238f6569db08362e23908a6 f147289cd77efb9e9b39052cfc3534775f3cdf53 dlteif <dlteif@bu.edu> 1651161506 -0400	pull: Merge made by the 'recursive' strategy.
+f147289cd77efb9e9b39052cfc3534775f3cdf53 eff9f7bc7fc2702c68229031e92ab5ab120a0824 dlteif <dlteif@bu.edu> 1651161628 -0400	commit: updated photo
+eff9f7bc7fc2702c68229031e92ab5ab120a0824 ccde93a7b11170b6d33fae802fea5419f043966a dlteif <dlteif@bu.edu> 1651161985 -0400	pull: Fast-forward
+ccde93a7b11170b6d33fae802fea5419f043966a c8f85a9ca984a743b684284fe241d584833880ba dlteif <dlteif@bu.edu> 1651162082 -0400	commit: updated photo
+c8f85a9ca984a743b684284fe241d584833880ba ca014f7b33a5640c01d62a6ba043278ff4407003 dlteif <dlteif@bu.edu> 1651162313 -0400	commit: updated photo
+ca014f7b33a5640c01d62a6ba043278ff4407003 b111565d56c345c7171869420d75d6acac7a632d dlteif <dlteif@bu.edu> 1651163085 -0400	commit: updated photo
+b111565d56c345c7171869420d75d6acac7a632d 2651d7d700c23c1b7a67123ccf220cc7b98bc8b7 dlteif <dlteif@bu.edu> 1651163107 -0400	pull: Merge made by the 'recursive' strategy.
+2651d7d700c23c1b7a67123ccf220cc7b98bc8b7 22b2d3aa86a1a4cbacc25c6a1bc6c71afd06d92c dlteif <dlteif@bu.edu> 1651163118 -0400	commit: updated photo
+22b2d3aa86a1a4cbacc25c6a1bc6c71afd06d92c 93c5494780544d0c1394571c71bfa17d4f9ffe0c dlteif <dlteif@bu.edu> 1651163859 -0400	commit: updated photo
+93c5494780544d0c1394571c71bfa17d4f9ffe0c aafd3ef11391ea194ddd6dc33ba620f387c1c19f dlteif <dlteif@bu.edu> 1651287646 -0400	pull: Fast-forward
+aafd3ef11391ea194ddd6dc33ba620f387c1c19f 36079fcdeb138dd5ab148e8d4c7a31d212928cf9 dlteif <dlteif@bu.edu> 1651293761 -0400	commit: updated photo
+36079fcdeb138dd5ab148e8d4c7a31d212928cf9 98243cdf7a06873c6222da7cc34c2b93b5ed4c80 dlteif <dlteif@bu.edu> 1669791881 -0600	commit: updated CV and added research section
+98243cdf7a06873c6222da7cc34c2b93b5ed4c80 941c721d1a314cdada67128d7d381abd33ac49e7 dlteif <dlteif@bu.edu> 1669791908 -0600	commit: updated CV and added research section
+941c721d1a314cdada67128d7d381abd33ac49e7 2768dcd58c824242b19b8df79d90e0b3e11fd623 dlteif <dlteif@bu.edu> 1669791991 -0600	pull: Merge made by the 'recursive' strategy.
+2768dcd58c824242b19b8df79d90e0b3e11fd623 06d2fa59462ae7efb7d3e2f2800bfae0956ba6e2 dlteif <dlteif@bu.edu> 1669792054 -0600	commit: updated CV and added research section
+06d2fa59462ae7efb7d3e2f2800bfae0956ba6e2 e0b239cc24112439e39d6c6573c494426d32b5ce dlteif <dlteif@bu.edu> 1669792142 -0600	commit: updated CV and added research section
