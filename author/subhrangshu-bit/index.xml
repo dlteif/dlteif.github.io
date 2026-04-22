@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subhrangshu Bit | Diala Lteif</title>
+    <link>https://dlteif.github.io/author/subhrangshu-bit/</link>
+      <atom:link href="https://dlteif.github.io/author/subhrangshu-bit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subhrangshu Bit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 04 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://dlteif.github.io/images/icon_hu5390d5a83bb26393faf8dc231bd59187_3892_512x512_fill_lanczos_center_3.png</url>
+      <title>Subhrangshu Bit</title>
+      <link>https://dlteif.github.io/author/subhrangshu-bit/</link>
+    </image>
+    
+    <item>
+      <title>Vision-language framework for multi-sequence brain magnetic resonance imaging</title>
+      <link>https://dlteif.github.io/publication/remind/</link>
+      <pubDate>Sat, 04 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://dlteif.github.io/publication/remind/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
